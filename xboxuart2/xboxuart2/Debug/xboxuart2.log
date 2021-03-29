@@ -1,0 +1,4 @@
+﻿  xboxuart2.cpp
+C:\Users\piotr\source\repos\xboxuart2\xboxuart2\XboxPadRead.h(11,1): warning C4005:  "MAX_DATA_LENGTH": ponowna definicja makra
+C:\Users\piotr\source\repos\xboxuart2\xboxuart2\serialport.h(5): message :  zobacz poprzednią definicję „MAX_DATA_LENGTH”
+  xboxuart2.vcxproj -> C:\Users\piotr\source\repos\xboxuart2\Debug\xboxuart2.exe

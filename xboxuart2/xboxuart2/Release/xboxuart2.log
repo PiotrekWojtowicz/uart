@@ -1,0 +1,18 @@
+﻿  SerialPort.cpp
+  XboxPadRead.cpp
+C:\Users\piotr\source\repos\xboxuart2\xboxuart2\XboxPadRead.cpp(60,29): warning C4244:  "=": konwersja z "float" do "SHORT", możliwa utrata danych
+C:\Users\piotr\source\repos\xboxuart2\xboxuart2\XboxPadRead.cpp(61,29): warning C4244:  "=": konwersja z "float" do "SHORT", możliwa utrata danych
+C:\Users\piotr\source\repos\xboxuart2\xboxuart2\XboxPadRead.cpp(74,29): warning C4244:  "=": konwersja z "float" do "SHORT", możliwa utrata danych
+  xboxuart2.cpp
+C:\Users\piotr\source\repos\xboxuart2\xboxuart2\XboxPadRead.cpp(75,29): warning C4244:  "=": konwersja z "float" do "SHORT", możliwa utrata danych
+C:\Users\piotr\source\repos\xboxuart2\xboxuart2\XboxPadRead.h(11,1): warning C4005:  "MAX_DATA_LENGTH": ponowna definicja makra
+  CurrentConnection.cpp
+C:\Users\piotr\source\repos\xboxuart2\xboxuart2\serialport.h(5): message :  zobacz poprzednią definicję „MAX_DATA_LENGTH”
+C:\Users\piotr\source\repos\xboxuart2\xboxuart2\XboxPadRead.h(11,1): warning C4005:  "MAX_DATA_LENGTH": ponowna definicja makra
+C:\Users\piotr\source\repos\xboxuart2\xboxuart2\serialport.h(5): message :  zobacz poprzednią definicję „MAX_DATA_LENGTH”
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\piotr\source\repos\xboxuart2\xboxuart2\CurrentConnection.cpp(67): warning C4715: "PadControl”: niewszystkie ścieżki kodu zwracają wartość
+  All 119 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  xboxuart2.vcxproj -> C:\Users\piotr\source\repos\xboxuart2\Release\xboxuart2.exe
